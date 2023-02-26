@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="enter_the_otp_send_to">Enter the OTP send to</string>
+</resources>
